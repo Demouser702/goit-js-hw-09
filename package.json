@@ -9,7 +9,8 @@
   },
   "repository": {
     "type": "git",
-      "url": "git+https://github.com/Demouser702/goit-js-hw-09"
+    "url": "git+https://github.com/Demouser702/goit-js-hw-09"
+  },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
